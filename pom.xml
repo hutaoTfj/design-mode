@@ -12,6 +12,9 @@
         <module>hcy-design-mode-factory-method-model-1-00</module>
         <module>hcy-design-mode-factory-method-model-1-01</module>
         <module>hcy-design-mode-factory-method-model-1-02</module>
+        <module>hcy-design-mode-simulated-factory-mode-2-00</module>
+        <module>hcy-design-mode-simulated-factory-mode-2-01</module>
+        <module>hcy-design-mode-simulated-factory-mode-2-02</module>
     </modules>
 
     <dependencies>
