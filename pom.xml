@@ -21,6 +21,7 @@
         <module>hcy-design-mode-prototype-pattern-0-00</module>
         <module>hcy-design-mode-prototype-pattern-4-00</module>
         <module>hcy-design-mode-prototype-pattern-4-01</module>
+        <module>hcy-design-mode-prototype-pattern-4-02</module>
     </modules>
 
     <dependencies>

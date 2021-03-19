@@ -10,6 +10,7 @@
         <module name="hcy-design-mode-builder-mode-3-01" />
         <module name="hcy-design-mode-prototype-pattern-4-01" />
         <module name="hcy-design-mode-builder-mode-3-00" />
+        <module name="hcy-design-mode-prototype-pattern-4-02" />
         <module name="hcy-design-mode-factory-method-model-1-00" />
         <module name="hcy-design-mode-builder-mode-3-02" />
         <module name="hcy-design-mode-prototype-pattern-4-00" />
@@ -21,15 +22,16 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="15">
-      <module name="hcy-design-mode" target="15" />
+      <module name="hcy-design-mode" target="1.5" />
       <module name="hcy-design-mode-builder-mode-3-00" target="15" />
       <module name="hcy-design-mode-builder-mode-3-01" target="15" />
       <module name="hcy-design-mode-builder-mode-3-02" target="15" />
-      <module name="hcy-design-mode-factory-method-model-1-00" target="15" />
+      <module name="hcy-design-mode-factory-method-model-1-00" target="1.5" />
       <module name="hcy-design-mode-factory-method-model-1-01" target="15" />
       <module name="hcy-design-mode-factory-method-model-1-02" target="15" />
       <module name="hcy-design-mode-prototype-pattern-4-00" target="15" />
-      <module name="hcy-design-mode-prototype-pattern-4-01" target="1.7" />
+      <module name="hcy-design-mode-prototype-pattern-4-01" target="15" />
+      <module name="hcy-design-mode-prototype-pattern-4-02" target="15" />
       <module name="hcy-design-mode-simulated-factory-mode-2-00" target="15" />
       <module name="hcy-design-mode-simulated-factory-mode-2-01" target="15" />
       <module name="hcy-design-mode-simulated-factory-mode-2-02" target="15" />
