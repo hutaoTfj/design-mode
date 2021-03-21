@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-builder-mode-3-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-builder-mode-3-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-builder-mode-3-02/src/main/java" charset="UTF-8" />
@@ -13,6 +14,6 @@
     <file url="file://$PROJECT_DIR$/hcy-design-mode-simulated-factory-mode-2-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-simulated-factory-mode-2-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-simulated-factory-mode-2-02/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hcy-design-mode-singleton-pattern-1-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcy-design-mode-singleton-pattern-5-00/src/main/java" charset="UTF-8" />
   </component>
 </project>
