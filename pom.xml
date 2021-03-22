@@ -24,6 +24,8 @@
         <module>hcy-design-mode-prototype-pattern-4-02</module>
         <module>hcy-design-mode-singleton-pattern-1-00</module>
         <module>hcy-design-mode-adapter-pattern-6-00</module>
+        <module>hcy-design-mode-adapter-pattern-6-01</module>
+        <module>hcy-design-mode-adapter-pattern-6-02</module>
     </modules>
 
     <dependencies>
