@@ -9,3 +9,5 @@
 [第四章：设计模式之原型模式](https://xiaoxunyao.xyz/archives/design-patterns-four)
 
 [第五章：设计模式之单例模式](https://xiaoxunyao.xyz/archives/design-patterns-five)
+
+[第六章：设计模式之适配器模式](https://xiaoxunyao.xyz/archives/design-patterns-six)
