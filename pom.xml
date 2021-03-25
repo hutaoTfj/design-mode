@@ -18,7 +18,7 @@
         <module>hcy-design-mode-builder-mode-3-00</module>
         <module>hcy-design-mode-builder-mode-3-01</module>
         <module>hcy-design-mode-builder-mode-3-02</module>
-        <module>hcy-design-mode-prototype-pattern-0-00</module>
+        <module>hcy-design-mode-prototype-pattern-5-00</module>
         <module>hcy-design-mode-prototype-pattern-4-00</module>
         <module>hcy-design-mode-prototype-pattern-4-01</module>
         <module>hcy-design-mode-prototype-pattern-4-02</module>
@@ -26,6 +26,8 @@
         <module>hcy-design-mode-adapter-pattern-6-00</module>
         <module>hcy-design-mode-adapter-pattern-6-01</module>
         <module>hcy-design-mode-adapter-pattern-6-02</module>
+        <module>hcy-design-mode-bridge-model-7-01</module>
+        <module>hcy-design-mode-bridge-model-7-02</module>
     </modules>
 
     <dependencies>
