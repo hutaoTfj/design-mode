@@ -15,3 +15,7 @@
 [第七章：设计模式之桥接模式](https://xiaoxunyao.xyz/archives/design-patterns-seven)
 
 [第八章：设计模式之组合模式](https://xiaoxunyao.xyz/archives/design-patterns-eight)
+
+[第九章：设计模式之装饰器模式](https://xiaoxunyao.xyz/archives/design-patterns-nine)
+
+[第八章：设计模式之组合模式](https://xiaoxunyao.xyz/archives/design-patterns-eight)
