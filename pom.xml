@@ -30,6 +30,9 @@
         <module>hcy-design-mode-bridge-model-7-02</module>
         <module>hcy-design-mode-portfolio-model-8-01</module>
         <module>hcy-design-mode-portfolio-model-8-02</module>
+        <module>hcy-design-mode-decorator-mode-9-00</module>
+        <module>hcy-design-mode-decorator-mode-9-01</module>
+        <module>hcy-design-mode-decorator-mode-9-02</module>
     </modules>
 
     <dependencies>
