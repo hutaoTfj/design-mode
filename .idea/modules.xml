@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hcy-desgin-mode-facade-patterns-10-00/hcy-desgin-mode-facade-patterns-10-00.iml" filepath="$PROJECT_DIR$/hcy-desgin-mode-facade-patterns-10-00/hcy-desgin-mode-facade-patterns-10-00.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode.iml" filepath="$PROJECT_DIR$/hcy-design-mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-00/hcy-design-mode-adapter-pattern-6-00.iml" filepath="$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-00/hcy-design-mode-adapter-pattern-6-00.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-01/hcy-design-mode-adapter-pattern-6-01.iml" filepath="$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-01/hcy-design-mode-adapter-pattern-6-01.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-00/hcy-design-mode-decorator-mode-9-00.iml" filepath="$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-00/hcy-design-mode-decorator-mode-9-00.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-01/hcy-design-mode-decorator-mode-9-01.iml" filepath="$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-01/hcy-design-mode-decorator-mode-9-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-02/hcy-design-mode-decorator-mode-9-02.iml" filepath="$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-02/hcy-design-mode-decorator-mode-9-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-01/hcy-design-mode-facade-patterns-10-01.iml" filepath="$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-01/hcy-design-mode-facade-patterns-10-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-02/hcy-design-mode-facade-patterns-10-02.iml" filepath="$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-02/hcy-design-mode-facade-patterns-10-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-00/hcy-design-mode-factory-method-model-1-00.iml" filepath="$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-00/hcy-design-mode-factory-method-model-1-00.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-01/hcy-design-mode-factory-method-model-1-01.iml" filepath="$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-01/hcy-design-mode-factory-method-model-1-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-02/hcy-design-mode-factory-method-model-1-02.iml" filepath="$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-02/hcy-design-mode-factory-method-model-1-02.iml" />

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hcy-desgin-mode-facade-patterns-10-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-02/src/main/java" charset="UTF-8" />
@@ -12,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-decorator-mode-9-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcy-design-mode-facade-patterns-10-02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-02/src/main/java" charset="UTF-8" />
