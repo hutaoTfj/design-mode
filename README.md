@@ -18,3 +18,5 @@
 
 [第九章：设计模式之装饰器模式](https://xiaoxunyao.xyz/archives/design-patterns-nine)
 
+[第十章：设计模式之外观模式](https://xiaoxunyao.xyz/archives/design-patterns-ten)
+
