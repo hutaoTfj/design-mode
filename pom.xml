@@ -33,6 +33,9 @@
         <module>hcy-design-mode-decorator-mode-9-00</module>
         <module>hcy-design-mode-decorator-mode-9-01</module>
         <module>hcy-design-mode-decorator-mode-9-02</module>
+        <module>hcy-desgin-mode-flyweight-pattern</module>
+        <module>hcy-desgin-mode-flyweight-pattern-11-00</module>
+        <module>hcy-design-mode-flyweight-pattern-11-01</module>
     </modules>
 
     <dependencies>

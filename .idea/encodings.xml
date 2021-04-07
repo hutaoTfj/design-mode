@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/hcy-desgin-mode-facade-patterns-10-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcy-desgin-mode-flyweight-pattern-11-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-adapter-pattern-6-02/src/main/java" charset="UTF-8" />
@@ -18,6 +19,7 @@
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-00/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-factory-method-model-1-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcy-design-mode-flyweight-pattern-11-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-portfolio-model-8-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-portfolio-model-8-02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hcy-design-mode-prototype-pattern-4-00/src/main/java" charset="UTF-8" />

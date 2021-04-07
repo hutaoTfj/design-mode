@@ -13,6 +13,7 @@
         <module name="hcy-design-mode-facade-patterns-10-02" />
         <module name="hcy-design-mode-factory-method-model-1-02" />
         <module name="hcy-design-mode-facade-patterns-10-01" />
+        <module name="hcy-design-mode-flyweight-pattern-11-01" />
         <module name="hcy-design-mode-builder-mode-3-01" />
         <module name="hcy-design-mode-prototype-pattern-4-01" />
         <module name="hcy-design-mode-builder-mode-3-00" />
@@ -27,6 +28,7 @@
         <module name="hcy-design-mode-adapter-pattern-6-00" />
         <module name="hcy-design-mode-adapter-pattern-6-02" />
         <module name="hcy-design-mode-factory-method-model-1-00" />
+        <module name="hcy-desgin-mode-flyweight-pattern-11-00" />
         <module name="hcy-design-mode-simulated-factory-mode-2-02" />
         <module name="hcy-design-mode-decorator-mode-9-02" />
         <module name="hcy-design-mode-simulated-factory-mode-2-01" />
@@ -37,6 +39,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="15">
       <module name="hcy-desgin-mode-facade-patterns-10-00" target="15" />
+      <module name="hcy-desgin-mode-flyweight-pattern-11-00" target="15" />
       <module name="hcy-design-mode" target="1.5" />
       <module name="hcy-design-mode-adapter-pattern-6-00" target="15" />
       <module name="hcy-design-mode-adapter-pattern-6-01" target="15" />
@@ -50,10 +53,11 @@
       <module name="hcy-design-mode-decorator-mode-9-01" target="15" />
       <module name="hcy-design-mode-decorator-mode-9-02" target="15" />
       <module name="hcy-design-mode-facade-patterns-10-01" target="15" />
-      <module name="hcy-design-mode-facade-patterns-10-02" target="11" />
+      <module name="hcy-design-mode-facade-patterns-10-02" target="15" />
       <module name="hcy-design-mode-factory-method-model-1-00" target="1.5" />
       <module name="hcy-design-mode-factory-method-model-1-01" target="15" />
       <module name="hcy-design-mode-factory-method-model-1-02" target="15" />
+      <module name="hcy-design-mode-flyweight-pattern-11-01" target="8" />
       <module name="hcy-design-mode-portfolio-model-8-01" target="15" />
       <module name="hcy-design-mode-portfolio-model-8-02" target="15" />
       <module name="hcy-design-mode-prototype-pattern-4-00" target="15" />
