@@ -20,3 +20,4 @@
 
 [第十章：设计模式之外观模式](https://xiaoxunyao.xyz/archives/design-patterns-ten)
 
+[第十一章:设计模式之享元模式](https://xiaoxunyao.xyz/archives/design-patterns-eleven)
